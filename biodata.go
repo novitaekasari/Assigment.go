@@ -13,6 +13,9 @@ func main() {
 
 	 biodata := []Person{
 		{name : "Boy Valentyas", addres: "Jakarta Timur", job: "Programmer", reason: "Karena tertarik dengan Golang"},
+		{name : "Sebastian Agustus", addres: "Kelapa Gading", job: "Quality Tester", reason: "Karena tertarik dengan Golang"},
+		{name : "Noventi Agt", addres: "Papua", job: "Front End Programmer", reason: "Karena tertarik dengan Golang"},
+		{name : "Novita Ekasari", addres: "Jakarta Timur", job: "Programmer", reason: "Karena tertarik dengan Golang"},
 		
 	}
 
